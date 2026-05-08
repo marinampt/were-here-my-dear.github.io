@@ -298,7 +298,6 @@ nav .menu-item:nth-child(8):hover {
   z-index: 1;
 }
 
-/* ACTIVE SLIDES */
 #ma1:checked ~ .slides .slide:nth-child(1),
 #ma2:checked ~ .slides .slide:nth-child(2),
 #ma3:checked ~ .slides .slide:nth-child(3),
@@ -308,7 +307,6 @@ nav .menu-item:nth-child(8):hover {
   z-index: 1;
 }
 
-/* ACTIVE SLIDES */
 #b1:checked ~ .slides .slide:nth-child(1),
 #b2:checked ~ .slides .slide:nth-child(2),
 #b3:checked ~ .slides .slide:nth-child(3),
@@ -325,7 +323,6 @@ nav .menu-item:nth-child(8):hover {
   z-index: 1;
 }
 
-/* ACTIVE SLIDES */
 #j1:checked ~ .slides .slide:nth-child(1),
 #j2:checked ~ .slides .slide:nth-child(2),
 #j3:checked ~ .slides .slide:nth-child(3) {
@@ -333,7 +330,6 @@ nav .menu-item:nth-child(8):hover {
   z-index: 1;
 }
 
-/* ACTIVE SLIDES */
 #s1:checked ~ .slides .slide:nth-child(1),
 #s2:checked ~ .slides .slide:nth-child(2),
 #s3:checked ~ .slides .slide:nth-child(3),
