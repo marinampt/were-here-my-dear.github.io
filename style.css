@@ -422,9 +422,9 @@ nav .menu-item:nth-child(8):hover {
   z-index: 1;
 }
 
-#m1:checked ~ .slides .slide:nth-child(1),
-#m2:checked ~ .slides .slide:nth-child(2),
-#m3:checked ~ .slides .slide:nth-child(3) {
+#map1:checked ~ .slides .slide:nth-child(1),
+#map2:checked ~ .slides .slide:nth-child(2),
+#map3:checked ~ .slides .slide:nth-child(3) {
   opacity: 1;
   z-index: 1;
 }
